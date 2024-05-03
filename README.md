@@ -1,2 +1,1 @@
-# snake
-wa
+Small Java snake game ;)
